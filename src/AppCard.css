@@ -1,0 +1,25 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+  .card {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(188, 255, 227);
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 12px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  h2 {
+    color:rgb(6, 33, 89);
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+    margin: 0.5em 0em 0.1em 0em; /*sup dir inf esq*/
+  }
+  
+  p {
+     margin: 0em 0em 1em 0em;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
